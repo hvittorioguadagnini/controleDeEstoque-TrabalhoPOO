@@ -1,4 +1,3 @@
-# controleDeEstoque-TrabalhoPOO
 # Controle de Estoque - Trabalho de POO
 
 Este repositório contém o código-fonte desenvolvido como trabalho final da disciplina de Programação Orientada a Objetos. O projeto consiste em um sistema de controle de estoque para um restaurante, implementado em Java.
