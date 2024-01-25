@@ -52,11 +52,3 @@ java Restaurante
 ```
 
 Certifique-se de ter uma máquina virtual Java (JVM) instalada em seu sistema.
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar solicitações de pull (pull requests) para melhorar este projeto.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
